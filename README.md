@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Live Site Link: https://eloquent-trifle-c1e0da.netlify.app/
+
+In this task I use React.JS, React-Bootstrap for designing, Chart.JS for developing the bar chart and line style and use some chart js plugings to customize the charts
+
+I faced some problem when I am trying to customize the charts. This Time I read the chartjs documantation and github repository to find the solution of my problem and I found the solution
